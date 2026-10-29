@@ -75,6 +75,8 @@ listed under "Lesson plan" below. Choose the next lesson like this:
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-29 | 11/01-prompt-engineering | 3/3 | Chose temp 0.6 for a classifier (lesson says 0.0 for single-answer tasks); unsure how build_prompt's missing-variable check and score_response's JSON check work (new to Python) |
+| 2026-10-29 | 11/03-structured-outputs | 3/3 | Warm-up 2/2. Assumed temperature 0 would fix invalid JSON (it makes output repeatable, but only token masking changes what is allowed); got required-but-nullable fields right |
 
 ## Review queue
 <!-- empty for now; learn adds lessons the quizzes flag -->
